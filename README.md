@@ -1,2 +1,9 @@
+# IdeaCat Tutorials 
+
+##### usage of mysql dump
 # mysqldump
-usage of mysql dump
+
+
+
+``` mysqldump -u username -p databasename > filename.sql ```
+
